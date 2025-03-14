@@ -1,8 +1,8 @@
-<h1 align="center">GO OR WOT 😮‍💨</h1>
+<h1 align="center">GO </h1>
 - 💬 Ask me about Go
 
 
-- 📫 How to reach me **akhilpic1@gmail.com**
+- 📫 How to reach me **sumishasuresh057@gmail.com**
 
 <h3 align="left">Connect with me 💨</h3>
 
