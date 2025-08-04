@@ -2,7 +2,7 @@
 - 💬 Ask me about Go
 
 
-- 📫 How to reach me **sumishasuresh057@gmail.com**
+- 📫 How to reach me **sumishaa26@gmail.com**
 
 <h3 align="left">Connect with me 💨</h3>
 
